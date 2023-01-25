@@ -9,7 +9,6 @@ p, h1, h2 {
 .container  {
     width: 1200px;
     margin: 0 auto;
-    border: 1px solid black;
     height: auto;
 
 }
